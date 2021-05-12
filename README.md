@@ -8,8 +8,9 @@ Repository of original code：https://github.com/yanghr/DeepHoyer
 
 ## Details
 We use the data set in the original paper and the new data set to reproduce this regularization method. The reproducibility of the method is verified, and some problems and phenomena in the reproducing process are analyzed.
-* Mnist file：The code of reproducing the part of the experiment on the MNIST dataset
-* FashionMnist file：test code on the FashionMnist dataset
+* DeepHoyer/mnist: The original code that can run correctly.
+* Mnist file：The code of reproducing the part of the experiment on the MNIST dataset.
+* FashionMnist file：test code on the FashionMnist dataset.
 * report
 
 ## Team members
