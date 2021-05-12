@@ -1,3 +1,8 @@
+* A problem with the source code was found at runtime.
+* This is a slight modification of the original code.
+* The following is the original document description.
+==============================================================
+
 # MNIST experiments
 
 This folder contains the code for compressing MNIST models with element-wise or structural pruning. The code in `MLP/` and `CNN/` folders follows the same structure and usage. The code in `MLP/` aims to prune the LeNet-300-100 MLP model, and the code in `CNN/` aimes to prune the LeNet-5 CNN model.
