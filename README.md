@@ -8,8 +8,8 @@ Repository of original code：https://github.com/yanghr/DeepHoyer
 
 ## Details
 We use the data set in the original paper and the new data set to reproduce this regularization method. The reproducibility of the method is verified, and some problems and phenomena in the reproducing process are analyzed.
-* Minist file：test code on the Minist dataset
-* FashionMinist file：test code on the FashionMinist dataset
+* Mnist file：test code on the Mnist dataset
+* FashionMnist file：test code on the FashionMnist dataset
 * report
 
 ## Team members
