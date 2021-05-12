@@ -1,7 +1,7 @@
 * A problem with the source code was found at runtime.
 * This is a slight modification of the original code.
 * The following is the original document description.
-==============================================================
+# ==============================================
 
 # MNIST experiments
 
